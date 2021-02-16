@@ -1,6 +1,6 @@
 import requests
 # Set the target webpage
-url = "https://genshin.mihoyo.com/en"
+url = "https://www.tesla.com/"
 r = requests.get(url)
 # This will get the full page
 print(r.text)
